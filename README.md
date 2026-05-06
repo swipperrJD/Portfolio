@@ -13,4 +13,4 @@ Arduino Waste Sorting Project: _https://www.instructables.com/Automatic-Dry-Wet-
 - Focused on hardware wiring and system integration for an educational STEM project
 
 CyberPatriot (2024-2025)
-- Secured Windows 10 systems in a team-based cybersecurity competition, advancing to semifinals and # placing 1st in Idaho
+- Secured Windows 10 systems in a team-based cybersecurity competition, advancing to semifinals and **placing 1st in Idaho**
